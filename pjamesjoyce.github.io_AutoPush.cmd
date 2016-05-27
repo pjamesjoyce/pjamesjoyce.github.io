@@ -1,3 +1,4 @@
+@ECHO OFF
 cd %~dp0
 set timestamp=%DATE:/=-%_%TIME::=-%
 set timestamp=%timestamp: =%
