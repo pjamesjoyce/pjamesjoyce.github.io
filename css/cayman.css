@@ -65,6 +65,7 @@ a {
       padding: 2rem 1rem; } }
 
 .project-name {
+  color: #fff;
   margin-top: 0;
   margin-bottom: 0.1rem; }
   @media screen and (min-width: 64em) {
