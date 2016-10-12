@@ -20,8 +20,11 @@ description: > # this means to ignore newlines until "baseurl:"
   LCA practitioner | PhD researcher | Independent consultant
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pjamesjoyce.github.io" # the base hostname & protocol for your site
+
 twitter_username: KTH_James
 github_username:  pjamesjoyce
+linkedin_username:    pjamesjoyce
+facebook_username:    redmudproject
 
 # Build settings
 markdown: kramdown
@@ -30,3 +33,5 @@ theme: minima
 author:
   name:       James Joyce
   url:        http://pjamesjoyce.github.io
+
+
