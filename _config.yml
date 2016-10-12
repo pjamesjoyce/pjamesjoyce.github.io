@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: P. James Joyce
+tagline: LCA practitioner | PhD student | Independent consultant
 email: pjamesjoyce@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   LCA practitioner | PhD student | Independent consultant
@@ -25,3 +26,7 @@ github_username:  pjamesjoyce
 # Build settings
 markdown: kramdown
 theme: minima
+
+author:
+  name:       James Joyce
+  url:        http://pjamesjoyce.githubpages.io
