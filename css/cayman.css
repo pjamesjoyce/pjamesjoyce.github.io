@@ -11,13 +11,14 @@ body {
 
 
 a {
-  color: #fff;
+  color: #1e6bb8;
   text-decoration: none; }
-
-p a{
-  color: #1e6bb8;}
-  p a:hover {
+  a:hover {
     text-decoration: underline; }
+
+.white {
+  color:#fff;
+}
 
 
 .btn {
