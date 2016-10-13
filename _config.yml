@@ -30,6 +30,8 @@ facebook_username:    redmudproject2015
 markdown: kramdown
 theme: minima
 
+repository: pjamesjoyce/pjamesjoyce.github.io
+
 author:
   name:       James Joyce
   url:        http://pjamesjoyce.github.io
