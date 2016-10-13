@@ -39,3 +39,8 @@ author:
 
 # Google analytics
 google_analytics: UA-85667534-1
+
+#SEO
+
+gems:
+  - jekyll-seo-tag
