@@ -19,6 +19,7 @@ You can find the site here : [ETN-REDMUD:DEEP](http://etnredmud-pjjoyce.rhcloud.
 
 ## Video demo
 
-<iframe id="kmsembed-1_w6yila1l" width="608" height="402" src="https://play.kth.se/embed/secure/iframe/entryId/1_w6yila1l/uiConfId/26247942" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0"></iframe>
+<iframe id="kmsembed-1_w6yila1l" width="854" height="520" src="https://play.kth.se/embed/secure/iframe/entryId/1_w6yila1l/uiConfId/26247942" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0"></iframe>
+_Note: There's no sound (except background noise and clicking) so you might want to mute the player..._
 
 Any questions or comments, feel free to get in touch via Twitter [@KTH_James](https://twitter.com/KTH_James)
